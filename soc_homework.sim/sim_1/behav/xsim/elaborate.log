@@ -1,0 +1,58 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 6362cdc1304d4d6199667fbb192353f4 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_add_CLA_top_behav xil_defaultlib.tb_add_CLA_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA_top.v" Line 1. Module add_CLA_top_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA_top.v" Line 1. Module add_CLA_top_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v" Line 1. Module add_CLA_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v" Line 1. Module add_full doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.add_full
+Compiling module xil_defaultlib.add_CLA_default
+Compiling module xil_defaultlib.add_CLA_top_default
+Compiling module xil_defaultlib.tb_add_CLA_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_add_CLA_top_behav

@@ -1,0 +1,28 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+                   0  a=    0,b=    0,sum=    0,cout=0
+                  10  a=    0,b=    8,sum=    8,cout=0
+                  20  a=    0,b=  136,sum=  136,cout=0
+                  30  a=    0,b= 2184,sum= 2184,cout=0
+                  40  a=    0,b=34952,sum=34952,cout=0
+                  50  a=    8,b=    0,sum=    8,cout=0
+                  60  a=    8,b=    8,sum=   16,cout=0
+                  70  a=    8,b=  136,sum=  144,cout=0
+                  80  a=    8,b= 2184,sum= 2192,cout=0
+                  90  a=    8,b=34952,sum=34960,cout=0
+                 100  a=  136,b=    0,sum=  136,cout=0
+                 110  a=  136,b=    8,sum=  144,cout=0
+                 120  a=  136,b=  136,sum=  272,cout=0
+                 130  a=  136,b= 2184,sum= 2320,cout=0
+                 140  a=  136,b=34952,sum=35088,cout=0
+                 150  a= 2184,b=    0,sum= 2184,cout=0
+                 160  a= 2184,b=    8,sum= 2192,cout=0
+                 170  a= 2184,b=  136,sum= 2320,cout=0
+                 180  a= 2184,b= 2184,sum= 4368,cout=0
+                 190  a= 2184,b=34952,sum=37136,cout=0
+                 200  a=34952,b=    0,sum=34952,cout=0
+                 210  a=34952,b=    8,sum=34960,cout=0
+                 220  a=34952,b=  136,sum=35088,cout=0
+                 230  a=34952,b= 2184,sum=37136,cout=0
+                 240  a=34952,b=34952,sum= 4368,cout=1
+$stop called at time : 250 ns : File "E:/fpga/soc_homework/soc_homework.srcs/sim_1/new/tb_add_CLA_top.v" Line 30

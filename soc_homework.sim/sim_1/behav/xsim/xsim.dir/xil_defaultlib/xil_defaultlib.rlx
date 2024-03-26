@@ -1,0 +1,14 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+E:/fpga/soc_homework/soc_homework.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sim_1/new/tb_add_CLA.v,1710830600,verilog,,,,tb_add_CLA,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sim_1/new/tb_add_CLA_top.v,1710995279,verilog,,,,tb_add_CLA_top,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sim_1/new/tb_add_CSA.v,1710831047,verilog,,,,tb_add_CSA,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sim_1/new/tb_add_CSA_top.v,1710996796,verilog,,,,tb_add_CSA_top,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA.v,1710995664,verilog,,E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA_top.v,,add_CLA,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CLA_top.v,1710995427,verilog,,E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v,,add_CLA_top,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CSA.v,1710831961,verilog,,E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CSA_top.v,,add_CSA,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_CSA_top.v,1710992714,verilog,,E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v,,add_CSA_top,,,,,,,,
+E:/fpga/soc_homework/soc_homework.srcs/sources_1/new/add_full.v,1710816400,verilog,,E:/fpga/soc_homework/soc_homework.srcs/sim_1/new/tb_add_CLA_top.v,,add_full,,,,,,,,
